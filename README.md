@@ -1,29 +1,12 @@
-# test
+### 基于vue3.0搭建的ssr服务端渲染项目：
 
-## Project setup
-```
-npm install
-```
+### 1.安装依赖
+ yarn 或 npm install
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### 2.运行开发环境项目
+  yarn serve 默认起8081端口
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 3.打包生产环境 
+  yarn build
+### 4.启动生产环境服务
+  yarn start
